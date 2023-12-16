@@ -1,5 +1,5 @@
 ##
-👋 Hi, I’m @OliviaBlakeA<br>👀 I’m a Software Developer<br>🌱 I’m mainly involved in Web Developer<br>💞️ I’m looking to collaborate and contribute to Real-Word Projects<br>📫 How to reach me: oliviablake45@@gmail.com<br>🗺️ Portfolio Upcoming
+👋 Hi, I’m @OliviaBlakeA<br>👀 I’m a Software Developer<br>🌱 I’m mainly involved in Web Development<br>💞️ I’m looking to collaborate and contribute to Real-Word Projects<br>📫 How to reach me: oliviablake45@@gmail.com<br>🗺️ Portfolio Upcoming
 ##
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
